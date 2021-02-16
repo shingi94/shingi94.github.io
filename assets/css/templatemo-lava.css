@@ -247,15 +247,15 @@ header
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #250ef7!important;
+  color: #000000!important;
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #fba70b!important;
+  color: #027e08!important;
 }
 
 .background-header .nav li a.active {
-  color: #fba70b!important;
+  color: #027e08!important;
 }
 
 .header-area {

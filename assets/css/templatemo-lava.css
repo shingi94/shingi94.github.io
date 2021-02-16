@@ -397,12 +397,12 @@ header
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background: #fba70b;
+  background: #027e08;
 }
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #fba70b!important;
+  color: #027e08!important;
   padding-left: 25px;
 }
 
